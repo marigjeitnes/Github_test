@@ -1,0 +1,12 @@
+A test to use quarto and Github in Rstudio
+
+
+Token
+```{r}
+install.packages("gitcreds")
+library(gitcreds)
+gitcreds_set() #From the selected choices, choose 2 and then copypaste token
+
+
+```
+
