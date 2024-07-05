@@ -1,4 +1,5 @@
 A test to use quarto and Github in Rstudio
+<<<<<<< HEAD
 
 
 Token
@@ -11,4 +12,9 @@ gitcreds_set() #From the selected choices, choose 2 and then copypaste token
 ```{r}
 #test test test test
 ```
+
+=======
+>>>>>>> e313301b3e521c20f0b46ca181151f090aef5803
+
+Testing testing 123
 
